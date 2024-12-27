@@ -22,3 +22,6 @@ A leading market research firm has collected detailed data on holiday sales, inc
 
 #### Sales Insights
 
+![Image Description](https://raw.githubusercontent.com/kalpanasanikommu/FP-20-Analytics-challenge/main/Sales%20Insights.png)
+
+
