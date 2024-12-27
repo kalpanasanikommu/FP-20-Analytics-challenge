@@ -18,7 +18,8 @@ A leading market research firm has collected detailed data on holiday sales, inc
 9.	What are the main reasons for product returns during Christmas, and do these differ from returns during other periods?
 10.	How do weather (e.g., snowy, sunny) or specific Christmas events (e.g., "Christmas Market") influence sales and customer behaviour?
 
-# Live Dashboard :
+# Live Dashboard : [Click here to view the Power BI report](https://app.powerbi.com/groups/me/reports/822c2b77-d628-47f9-9ac5-7dd0128f0453/ad70f2b03a00b38dd4bd?experience=power-bi)
+
 
 #### Sales Insights
 
@@ -27,6 +28,16 @@ A leading market research firm has collected detailed data on holiday sales, inc
 #### Behavioural Patterns 
 
 ![Image Description](https://raw.githubusercontent.com/kalpanasanikommu/FP-20-Analytics-challenge/main/Behavioural%20Patterns.png)
+
+## Conclusion
+
+▶️Sales Volume peak during Christmas, with high activity in December.
+
+▶️Promotions,Popular products and customer preferences are influenced by Age, Gender and Region.
+
+▶️Customer satisfaction tends to be slightly higher during Christmas, with a preference for express shipping & Gift wrapping services.
+
+▶️Weather and events have a minor impact ,rainy days leading to more returns.
 
 
 
