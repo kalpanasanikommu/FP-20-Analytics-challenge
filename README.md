@@ -24,4 +24,9 @@ A leading market research firm has collected detailed data on holiday sales, inc
 
 ![Image Description](https://raw.githubusercontent.com/kalpanasanikommu/FP-20-Analytics-challenge/main/Sales%20Insights.png)
 
+#### Behavioural Patterns 
+
+![Image Description](https://raw.githubusercontent.com/kalpanasanikommu/FP-20-Analytics-challenge/main/Behavioural%20Patterns.png)
+
+
 
